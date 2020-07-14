@@ -1,0 +1,14 @@
+{
+  "name": "testing_lazyload",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "start": "npx http-server ."
+  },
+  "author": "Christian van Keulen",
+  "license": "ISC",
+  "dependencies": {
+    "lazyload": "^2.0.0-rc.2"
+  }
+}
